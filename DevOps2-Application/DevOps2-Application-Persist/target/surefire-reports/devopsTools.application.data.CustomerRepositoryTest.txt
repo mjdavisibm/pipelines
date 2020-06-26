@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: devopsTools.application.data.CustomerRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.734 s - in devopsTools.application.data.CustomerRepositoryTest
